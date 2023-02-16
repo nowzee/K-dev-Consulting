@@ -5,7 +5,7 @@ import jwt
 from flask import Flask, jsonify, request, session
 
 app = Flask(__name__)
-app.secret_key = 'fBejkfhezbGHVD556659926SIUFHSDIB526269(-(-èJGVFKJVHHvfgkvfqkvljhvJVJV56262'
+app.secret_key = 'secretkey!'
 
 
 @app.route("/api/stage/", methods=['GET', 'POST'])
