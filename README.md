@@ -1,3 +1,3 @@
-# K-dev Consulting
+# Projet Stage
 Projet réalisé pendant ma période de stage
 
